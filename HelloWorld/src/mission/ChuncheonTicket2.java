@@ -1,16 +1,31 @@
 package mission;
 
 public class ChuncheonTicket2 {
-    /*
-    시립 박물과 오픈기념으로 시청 근무자들에게 박물과 티켓 625장을 무료로 배포하려고 한다.
-    최대 몇명가지 나눠줄 수 있고, 그 때 몇 장의 티켓이 남는다?(아주 인기가 많을 예정)
-
-    이 때, 각각 개인은 3장의 티켓을 가져간다
-    */
+    /**
+     * Q2) 최대 몇 명까지 나눠줄 수 있고, 그 때 몇 장의 티켓이 남는가? (아주 인기가 많을 예정)
+     * 시립 박물관 오픈기념으로 시청 근무자들에게 박물관 티켓 1112장 을 무료로 배포하려고 한다.
+     * 이 때, 각각 개인은 ”4＂장의 티켓을 가져간다.
+     */
     public static void main(String[] args) {
-        int 티켓 = 625;
-        int 인당갯수 = 3;
-        System.out.println("총 "+티켓/인당갯수+"명이 티켓을 가져갔고 "+ "남는 티켓은 "+티켓%인당갯수+"개입니다");
+
+        int freeTickets = 1111; //총 티켓 수
+        int person_ticket = 4; // 인당 가지는 티켓 수
+
+        int mex_person = ticket_distribution(freeTickets, person_ticket);//총 티켓 / 인당 가지는 티켓 결과
+        int left_ticket = left_ticket(freeTickets, person_ticket);
+
+        System.out.println("티켓을 가져 갈수 있는 근무자들 수는?" + mex_person);
+        System.out.println("티켓을 다 나눠주고, 남는 티켓 수는?" + left_ticket);
+    }
+
+    public static int ticket_distribution(int tickets, int person_ticket) {
+        int result = tickets / person_ticket;
+        return result;
+    }
+
+    public static int left_ticket(int tickets, int person_ticket) {
+        int result = tickets % person_ticket;
+        return result;
     }
 
 }
