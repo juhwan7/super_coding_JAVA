@@ -14,5 +14,16 @@ public class ClassroomDay {
 
         String subjectName = "국어";
         teacher.teach(student1,subjectName);
+        student1.study(teacher, subjectName);
+
+        teacher.teach(student2,subjectName);
+        student2.study(teacher, subjectName);
+
+        teacher.teach(student3,subjectName);
+        student3.study(teacher, subjectName);
+
+        teacher.teach(student4,subjectName);
+        student4.study(teacher, subjectName);
+
     }
 }
