@@ -8,6 +8,10 @@ public class ChuncheonTicket3 {
             ⇒ Yoo (나이: 42, 나라: 한국)
     */
     public static void main(String[] args){
+
+        디티오 디티오 = new 디티오();
+
+        디티오.get회원ID();
 /**
  * Q) 서로 다른 3명의 손님이 왔다. 3명은 반값 할인 적용 대상인가? 아닌가?
  * 나이가 65세 이상이고, 국적이 ＂한국”이면 반값으로 줄 예정이다.
