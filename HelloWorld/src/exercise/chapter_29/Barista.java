@@ -9,7 +9,6 @@ public class Barista {
     public void noticeOrder(String coffeeName) {
         System.out.println("바리스타: 커피주문 확인했습니다. 커피: " + coffeeName);
     }
-//commit test
     public Coffee makeUpCoffee(String coffeeName, long waterQuantity, long coffeebeanQuantity) {
         Coffee coffee = new Coffee(coffeeName, waterQuantity, coffeebeanQuantity);
         return coffee;
