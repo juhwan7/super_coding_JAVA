@@ -19,4 +19,3 @@ public class Barista {
         System.out.println("바리스타: 커피 제작이 완료되었습니다. 커피: " + coffeeName);
     }
 }
-//commit test

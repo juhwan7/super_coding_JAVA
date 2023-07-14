@@ -1,4 +1,6 @@
-package exercise.chapter_27;
+package exercise.chapter_30;
+
+import exercise.chapter_27.Teacher;
 
 public class Student {
 
@@ -8,6 +10,7 @@ public class Student {
     private int classroomNumber; //  몇 반
     private int studentNumber; // 몇 번
 
+    private int studentID;// student 고유 ID
 
     // 기본 정보
     private String name;

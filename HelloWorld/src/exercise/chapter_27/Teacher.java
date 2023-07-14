@@ -1,5 +1,7 @@
 package exercise.chapter_27;
 
+import exercise.chapter_30.Student;
+
 public class Teacher {
 
     // 속성
