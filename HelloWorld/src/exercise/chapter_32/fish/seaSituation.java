@@ -1,4 +1,4 @@
-package exercise.chpaer_32.fish;
+package exercise.chapter_32.fish;
 
 public class seaSituation {
 

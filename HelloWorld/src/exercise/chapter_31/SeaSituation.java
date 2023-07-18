@@ -1,7 +1,7 @@
 package exercise.chapter_31;
 
-import exercise.chpaer_32.fish.Fish;
-import exercise.chpaer_32.fish.FishChild;
+import exercise.chapter_32.fish.Fish;
+import exercise.chapter_32.fish.FishChild;
 
 public class SeaSituation {
     public static void main(String[] args) {
