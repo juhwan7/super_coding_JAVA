@@ -15,10 +15,10 @@ public class Bird extends Animal {
 
     @Override
     public void sleep() {
-        System.out.println("새가 잠을 자고 있습니다.");
+        super.sleep();
     }
 
-    public void fly(){
+    public void fly() {
         System.out.println("새가 날고 있습니다.");
     }
 }

@@ -1,8 +1,9 @@
-package exercise.chapter_34;
+package exercise.chapter_43;
 
 public class VIPCustomer extends Customer {
 
     static int seriaNums = 1;
+
     // 속성
     private String agentID;
     private double discountRatio;
@@ -38,4 +39,18 @@ public class VIPCustomer extends Customer {
         System.out.print("VIP");
         super.printMyInfo();
     }
+
+    @Override
+    public String toString() {
+        return "VIPCustomer{" +
+                "agentID='" + agentID + '\'' +
+                ", discountRatio=" + discountRatio +
+                ", customerID='" + customerID + '\'' +
+                ", name='" + name + '\'' +
+                ", customerGrade='" + customerGrade + '\'' +
+                ", bonusPoint=" + bonusPoint +
+                ", bonusPointRatio=" + bonusPointRatio +
+                '}';
+    }
+
 }

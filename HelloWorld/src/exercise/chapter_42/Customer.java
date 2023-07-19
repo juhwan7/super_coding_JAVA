@@ -1,8 +1,9 @@
-package exercise.chapter_34;
+package exercise.chapter_42;
 
 public class Customer {
     // 속성
     static int serialNums = 1;
+
 
     protected String customerID;
     protected String name;

@@ -1,9 +1,12 @@
-package exercise.chapter_34;
+package exercise.chapter_40;
 
 public class Customer {
     // 속성
     static int serialNums = 1;
 
+    static {
+        System.out.println("Customer 클래스가 로딩 됩니다.");
+    }
     protected String customerID;
     protected String name;
     protected String customerGrade;

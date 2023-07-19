@@ -1,4 +1,4 @@
-package exercise.chapter_34;
+package exercise.chapter_43;
 
 public class GolderCustomer extends Customer {
 
@@ -20,4 +20,16 @@ public class GolderCustomer extends Customer {
         this.bonusPointRatio=0.03;
     }
 
+
+    @Override
+    public String toString() {
+        return "GolderCustomer{" +
+                "discountRatio=" + discountRatio +
+                ", customerID='" + customerID + '\'' +
+                ", name='" + name + '\'' +
+                ", customerGrade='" + customerGrade + '\'' +
+                ", bonusPoint=" + bonusPoint +
+                ", bonusPointRatio=" + bonusPointRatio +
+                '}';
+    }
 }

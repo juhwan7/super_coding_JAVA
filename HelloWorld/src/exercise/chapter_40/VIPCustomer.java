@@ -1,8 +1,11 @@
-package exercise.chapter_34;
+package exercise.chapter_40;
 
 public class VIPCustomer extends Customer {
 
     static int seriaNums = 1;
+    static {
+        System.out.println("VIPCustomer 클래스가 로딩 됩니다.");
+    }
     // 속성
     private String agentID;
     private double discountRatio;

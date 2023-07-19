@@ -1,4 +1,4 @@
-package exercise.chapter_34;
+package exercise.chapter_41;
 
 public class GolderCustomer extends Customer {
 
