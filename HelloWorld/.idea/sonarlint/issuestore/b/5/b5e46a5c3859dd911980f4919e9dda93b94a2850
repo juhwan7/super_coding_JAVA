@@ -1,0 +1,19 @@
+
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(âÜÒå8¢£‰—1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ßªÏûÿÿÿÿ8¢£‰—1
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İëôøÿÿÿÿ8¢£‰—1
+e
+java:S1854"CRemove this useless assignment to local variable "booleanMaterial".(Ú÷¡Ñüÿÿÿÿ8’¢£‰—1
+a
+java:S1854"?Remove this useless assignment to local variable "intMaterial".(àšçªşÿÿÿÿ8’¢£‰—1
+^
+java:S1854	"<Remove this useless assignment to local variable "material".(¾¸Á²ıÿÿÿÿ8’¢£‰—1
+O
+java:S1481	"-Remove this unused "material" local variable.(¾¸Á²ıÿÿÿÿ8“¢£‰—1
+R
+java:S1481"0Remove this unused "intMaterial" local variable.(àšçªşÿÿÿÿ8“¢£‰—1
+V
+java:S1481"4Remove this unused "booleanMaterial" local variable.(Ú÷¡Ñüÿÿÿÿ8“¢£‰—1

@@ -1,0 +1,20 @@
+
+h
+java:S1192&"FDefine a constant instead of duplicating this literal "Hello" 3 times.(±µˆüÿÿÿÿ8ç€Ú¸—1
+Q
+java:S1611"/Remove the parentheses around the "x" parameter(¤óùÎûÿÿÿÿ8½äÕ¸—1
+K
+java:S1611"/Remove the parentheses around the "i" parameter(Ç¹÷68½äÕ¸—1
+Q
+java:S1611"/Remove the parentheses around the "x" parameter(àĞ ¬ûÿÿÿÿ8½äÕ¸—1
+u
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(àĞ ¬ûÿÿÿÿ8½äÕ¸—1
+p
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(£¦˜ù8½äÕ¸—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(»ÜˆÎüÿÿÿÿ8¾äÕ¸—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ş˜ØÓ8¾äÕ¸—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(îÎ´‹8¾äÕ¸—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(®œÙş8¾äÕ¸—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(şŠİ“øÿÿÿÿ8¿äÕ¸—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(’‚Óéúÿÿÿÿ8¿äÕ¸—1
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(Ó×ä×8¿äÕ¸—1

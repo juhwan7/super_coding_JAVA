@@ -1,0 +1,51 @@
+
+S
+java:S1854+"6Remove this useless assignment to local variable "b2".(œàºş8ï¬Úˆ—1
+S
+java:S1854("6Remove this useless assignment to local variable "b1".(ò¨Ğ8ï¬Úˆ—1
+U
+java:S1854"8Remove this useless assignment to local variable "int2".(˜™ıå8ï¬Úˆ—1
+Z
+java:S1854
+"8Remove this useless assignment to local variable "int1".(ÿÌËşÿÿÿÿ8ï¬Úˆ—1
+^
+java:S1854"<Remove this useless assignment to local variable "integer2".(îÀÃüÿÿÿÿ8ï¬Úˆ—1
+=
+java:S2129"!Remove this "Integer" constructor(ÄŒ°k8ğ¬Úˆ—1
+K
+java:S1874"/Remove this use of "Integer"; it is deprecated.(ÄŒ°k8ğ¬Úˆ—1
+C
+java:S2129"!Remove this "Integer" constructor(îÀÃüÿÿÿÿ8ñ¬Úˆ—1
+Q
+java:S1874"/Remove this use of "Integer"; it is deprecated.(îÀÃüÿÿÿÿ8ñ¬Úˆ—1
+O
+java:S1481"-Remove this unused "integer2" local variable.(îÀÃüÿÿÿÿ8ñ¬Úˆ—1
+K
+java:S1481
+")Remove this unused "int1" local variable.(ÿÌËşÿÿÿÿ8ñ¬Úˆ—1
+F
+java:S1481")Remove this unused "int2" local variable.(˜™ıå8ñ¬Úˆ—1
+X	java:S125"<This block of commented-out lines of code should be removed.(Í§¹ÿ8ñ¬Úˆ—1
+X	java:S125"<This block of commented-out lines of code should be removed.(ü”ó8ñ¬Úˆ—1
+@
+java:S2129"#Remove this "Character" constructor(Ñòñú8ò¬Úˆ—1
+N
+java:S1874"1Remove this use of "Character"; it is deprecated.(Ñòñú8ò¬Úˆ—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿøìıÿÿÿÿ8ò¬Úˆ—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ–Ö–8ò¬Úˆ—1
+T	java:S106#"9Replace this use of System.out or System.err by a logger.(ƒÚáB8ò¬Úˆ—1
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(âùÏ=8ò¬Úˆ—1
+C
+java:S2129'"!Remove this "Boolean" constructor(ˆÛôüÿÿÿÿ8ó¬Úˆ—1
+Q
+java:S1874'"/Remove this use of "Boolean"; it is deprecated.(ˆÛôüÿÿÿÿ8ó¬Úˆ—1
+D
+java:S1481("'Remove this unused "b1" local variable.(ò¨Ğ8ó¬Úˆ—1
+D
+java:S1481+"'Remove this unused "b2" local variable.(œàºş8ó¬Úˆ—1
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(³Ì±$8ó¬Úˆ—1
+5
+java:S2178-"Correct this "&" to "&&".(³Ì±$8õ¬Úˆ—1
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(Ò¾Îåùÿÿÿÿ8³çÛˆ—1
+;
+java:S2178."Correct this "|" to "||".(Ò¾Îåùÿÿÿÿ8¦ŸÜˆ—1

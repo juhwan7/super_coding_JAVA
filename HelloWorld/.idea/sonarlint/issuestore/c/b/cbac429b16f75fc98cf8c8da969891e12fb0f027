@@ -1,0 +1,29 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(×ÃüÉıÿÿÿÿ8Õ¸Á»—1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Orange" 3 times.(×ÃüÉıÿÿÿÿ8Õ¸Á»—1
+i
+java:S1192"GDefine a constant instead of duplicating this literal "Banana" 3 times.(×ÃüÉıÿÿÿÿ8Õ¸Á»—1
+=
+java:S36269"Remove this redundant jump.(œœâ¥ûÿÿÿÿ8â¸Á»—1
+M
+java:S1481"+Remove this unused "fruits" local variable.(×ÃüÉıÿÿÿÿ8ã¸Á»—1
+O
+java:S1481"2Remove this unused "integerStream" local variable.(¦ûéİ8ã¸Á»—1
+I
+java:S1481",Remove this unused "fruits2" local variable.(ŸçØ8ã¸Á»—1
+T
+java:S1481"2Remove this unused "intgerStream2" local variable.(Š‰”‘úÿÿÿÿ8ä¸Á»—1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(°±èÜşÿÿÿÿ8å¸Á»—1
+P
+java:S16114"3Remove the parentheses around the "fruit" parameter(Ò‡§8æ¸Á»—1
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(Ò‡§8æ¸Á»—1
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ÌÊæóüÿÿÿÿ8ç¸Á»—1
+L
+java:S1611;"/Remove the parentheses around the "i" parameter(¿ĞÊä8ç¸Á»—1
+L
+java:S1611<"/Remove the parentheses around the "i" parameter(€ş¤’8ç¸Á»—1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(ò›Äşÿÿÿÿ8ç¸Á»—1
+B
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8è¸Á»—1

@@ -1,0 +1,19 @@
+
+c
+java:S2259"AA "NullPointerException" could be thrown; "str" is nullable here.(‘İæØúÿÿÿÿ8ùöà–—1
+T
+java:S1854"8Remove this useless assignment to local variable "data".(û–ëa8úöà–—1
+S
+java:S1854
+"6Remove this useless assignment to local variable "fs".(ÂíŠ8úöà–—1
+D
+java:S1481
+"'Remove this unused "fs" local variable.(ÂíŠ8şöà–—1
+E
+java:S1481")Remove this unused "data" local variable.(û–ëa8şöà–—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘İæØúÿÿÿÿ8şöà–—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÒÓ8şöà–—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ‹–Ûúÿÿÿÿ8şöà–—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½´‡8ÿöà–—1
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(ÿäšæ8ÿöà–—1
+]	java:S125"<This block of commented-out lines of code should be removed.(‡şÀ®ıÿÿÿÿ8ÿöà–—1

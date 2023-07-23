@@ -1,0 +1,9 @@
+
+„
+java:S4165"gRemove this useless assignment; "innerData" already holds the assigned value along all execution paths.(Èèø¸8Ø®ªµ—1
+L
+java:S1656"/Remove or correct this useless self-assignment.(Èèø¸8Û®ªµ—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï—÷‘ıÿÿÿÿ8Ê³¨µ—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ñ–8Ê³¨µ—1
+W
+java:S1128"5Remove this unused import 'java.io.LineNumberReader'.(ÇÂõÇüÿÿÿÿ8İ®ªµ—1

@@ -1,0 +1,13 @@
+
+X
+java:S3518";Make sure "myInt" can't be zero before doing this division.(§–Õ®8ˆ“¿——1
+D
+java:S2189!""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8º¯¯——1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(—¼È¿øÿÿÿÿ8¼¯¯——1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‚êèõ8½¯¯——1
+F
+java:S1481")Remove this unused "data" local variable.(§–Õ®8¾¯¯——1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(×Û­Q8¾¯¯——1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÚıÈıÿÿÿÿ8¾¯¯——1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó—±Ÿ8¾¯¯——1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(©›ï¾ûÿÿÿÿ8¾¯¯——1

@@ -1,0 +1,6 @@
+
+a
+java:S2147"DCombine this catch with the one at line 17, which has the same body.(ï­£Ä8†ÔáÄ—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Äò‹ëüÿÿÿÿ8†ÔáÄ—1
+Q
+java:S1128"5Remove this unused import 'java.io.FileOutputStream'.(˜«ªg8‡ÔáÄ—1

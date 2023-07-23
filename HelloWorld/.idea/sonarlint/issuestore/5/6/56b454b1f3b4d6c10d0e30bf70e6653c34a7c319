@@ -1,0 +1,14 @@
+
+\
+java:S1854":Remove this useless assignment to local variable "friday".(ì³îŠøÿÿÿÿ8¹†å˜—1
+W
+java:S1854":Remove this useless assignment to local variable "monday".(‚ß­8¹†å˜—1
+H
+java:S1481"+Remove this unused "monday" local variable.(‚ß­8º†å˜—1
+M
+java:S1481"+Remove this unused "friday" local variable.(ì³îŠøÿÿÿÿ8º†å˜—1
+]	java:S125	"<This block of commented-out lines of code should be removed.(€ç´Úúÿÿÿÿ8º†å˜—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚¸¡‹úÿÿÿÿ8Ğ†å˜—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¹ìØ—ùÿÿÿÿ8Ğ†å˜—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(§Êâ8Ğ†å˜—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ä€£¿8Ğ†å˜—1
