@@ -1,0 +1,13 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ú«ÙÌøÿÿÿÿ8„ÏéÁ˜1
+k
+java:S3824"OReplace this "Map.get()" and condition with a call to "Map.computeIfPresent()".(ÄßJ8‡ÏéÁ˜1
+V
+java:S1118
+":Add a private constructor to hide the implicit public one.(Èï­_8‰ÏéÁ˜1
+T
+java:S1135"2Complete the task associated to this TODO comment.(†Çïìüÿÿÿÿ8ŠÏéÁ˜1
+O
+java:S1135 "2Complete the task associated to this TODO comment.(à®Í8‹ÏéÁ˜1
+T
+java:S1135!"2Complete the task associated to this TODO comment.(£ËÌáıÿÿÿÿ8‹ÏéÁ˜1

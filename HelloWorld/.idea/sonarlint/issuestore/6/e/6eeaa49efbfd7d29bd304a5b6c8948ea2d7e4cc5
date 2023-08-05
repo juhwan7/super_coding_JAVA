@@ -1,0 +1,17 @@
+
+S
+java:S1611"1Remove the parentheses around the "str" parameter(›Ì­Çÿÿÿÿÿ8¤ñˆ›˜1
+J
+java:S1481"(Remove this unused "ex2" local variable.(âíøæùÿÿÿÿ8¥ñˆ›˜1
+V
+java:S1612":Replace this lambda with method reference 'Customer::new'.(üˆ8¦ñˆ›˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(´Ğ¸óùÿÿÿÿ8¦ñˆ›˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°ùüÿÿÿÿ8¦ñˆ›˜1
+M
+java:S1611"1Remove the parentheses around the "str" parameter(İ¸­8§ñˆ›˜1
+V
+java:S1612":Replace this lambda with method reference 'Customer::new'.(İ¸­8§ñˆ›˜1
+J
+java:S1481"(Remove this unused "ex6" local variable.(Ğ¹¿íûÿÿÿÿ8§ñˆ›˜1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Ş·¦y8Ú¢Œ›˜1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ùİüÿÿÿÿ8Ú¢Œ›˜1

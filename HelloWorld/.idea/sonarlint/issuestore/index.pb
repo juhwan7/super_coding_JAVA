@@ -189,23 +189,139 @@ S
 #src/exercise/chapter_57/Server.java,2/1/2139a25c1a977b68bcca5db6c1b317b3e3ae6420
 U
 %src/exercise/chapter_57/Customer.java,3/5/355edb49ad2fa5a91a4cc5457020407dfb6d0e05
-S
-#src/exercise/chapter_57/Client.java,b/7/b7acf6752be2d3bf142fe5801d5909865d011afb
-a
-1src/exercise/chapter_57/SerializeExampleTest.java,7/9/79d39fe10a48f93a0b4ed2125fce48b2cccebea7
-Z
-*src/exercise/chapter_57/ServerAdvance.java,6/b/6b1fc7e5903a359d76ddb6a0db5f582d5900e2c5
-�
-psrc/mission/가장_낮은_성적을_가진_학생의_이름과_상위3명의_평균_성적구하기/Student.java,8/2/826efb14760754b77826f12c63be0ec69b5bdfa2
-�
-rsrc/mission/가장_낮은_성적을_가진_학생의_이름과_상위3명의_평균_성적구하기/ScoreTest.java,d/d/ddfbe877c3279994842e99146aa76149019f2bf3
-�
-]src/mission/클라이언트와_서버_간의_통신을_구현하는_JAVA코드/AdminUser.java,a/a/aa8e28947617d8f446537f613fdacea3188efddb
 �
 Zsrc/mission/클라이언트와_서버_간의_통신을_구현하는_JAVA코드/Client.java,c/0/c0c59bd33bcfe5707ab9d9881201756c3d45b210
 �
 Zsrc/mission/클라이언트와_서버_간의_통신을_구현하는_JAVA코드/Server.java,5/0/50f9384812d84800d0f8d0223b7c6518b9be3ca1
+�
+]src/mission/클라이언트와_서버_간의_통신을_구현하는_JAVA코드/AdminUser.java,a/a/aa8e28947617d8f446537f613fdacea3188efddb
 �
 Xsrc/mission/클라이언트와_서버_간의_통신을_구현하는_JAVA코드/User.java,3/1/31d960b82c1dcc7dabe6137b48e189e101b2f37f
+Z
+*src/exercise/chapter_57/ServerAdvance.java,6/b/6b1fc7e5903a359d76ddb6a0db5f582d5900e2c5
+S
+#src/exercise/chapter_57/Client.java,b/7/b7acf6752be2d3bf142fe5801d5909865d011afb
+�
+rsrc/mission/가장_낮은_성적을_가진_학생의_이름과_상위3명의_평균_성적구하기/ScoreTest.java,d/d/ddfbe877c3279994842e99146aa76149019f2bf3
+�
+psrc/mission/가장_낮은_성적을_가진_학생의_이름과_상위3명의_평균_성적구하기/Student.java,8/2/826efb14760754b77826f12c63be0ec69b5bdfa2
+a
+1src/exercise/chapter_57/SerializeExampleTest.java,7/9/79d39fe10a48f93a0b4ed2125fce48b2cccebea7
 �
 [src/mission/클라이언트와_서버_간의_통신을_구현하는_JAVA코드/UserDTO.java,5/9/59967ac4366d2fb83b64bf1b22993775c8fa7638
+T
+$src/exercise/chapter_58/Printer.java,3/b/3b78602d178f3c990c208e2c33f1731b3a7639dc
+a
+1src/exercise/chapter_58/MethodReferenceTest1.java,6/e/6eeaa49efbfd7d29bd304a5b6c8948ea2d7e4cc5
+a
+1src/exercise/chapter_58/MethodReferenceTest2.java,9/d/9d89fce2aaf00593dab75d1a61f964fcab364fb9
+X
+(src/exercise/chapter_58/StringUtils.java,1/9/1965b9107de12f2d5f2efab7ef36d2db87a17fd1
+[
++src/exercise/chapter_58/StreamExample1.java,a/5/a57c46a6abc3bf13101b8326f18b1628e3cd0f15
+U
+%src/exercise/chapter_58/Customer.java,1/d/1da80fe8928a954ebba071b041fb695ca6fce408
+[
++src/exercise/chapter_58/StreamExample2.java,c/6/c6b6057156221fef0ae11aabe7faf4aeb2dc7724
+Z
+*src/exercise/chapter_59/JavaThreading.java,d/9/d9d51812c50a0902a1828def85d4e55f86a3f9a3
+b
+2src/exercise/chapter_59/MultiThreadingExample.java,e/5/e50d381b3a1f4327b97cd8a48c6009ae0f4b0d42
+d
+4src/exercise/chapter_59/JavaMultiThreadingIssue.java,e/5/e54a559c5678eb2b613e4d7f5541572fb949287a
+`
+0src/exercise/chapter_59/PrintNumberRunnable.java,0/d/0dd2326e0034fab59b737bfaa6c1b19ed70519ed
+^
+.src/exercise/chapter_59/IncrementRunnable.java,6/2/628378d7cbc127ef87685767f22a6ab7ff5fcf5d
+U
+%src/exercise/chapter_59/Customer.java,1/8/18a7ad9d0ecb76556a19a00fbac9d0acbcb345b7
+T
+$src/exercise/chapter_59/Counter.java,f/0/f0a406231fa4f2496b4ebb0aeb8b2293cb00f1a3
+V
+&src/exercise/chapter_59/ListUtils.java,6/7/67b038fe029f04e8c25e4cbb91fbe64e6b48fac9
+Z
+*src/exercise/chapter_59/ServerAdvance.java,3/3/33b7b7d98da561dcf9cfd5fd5d6434e915dc1eab
+[
++src/exercise/chapter_59/RequestHandler.java,c/7/c7fc22898dcc389e8b887a81d881cd847ca26e68
+S
+#src/exercise/chapter_59/Client.java,5/6/56cf3c147c29d56994664a18bd295a6cd65ef34b
+l
+<src/exercise/chapter_60/singleton/FileWriterExampleTest.java,5/5/55ac21e06b7652eb0f49de6ecd0a6fdd36541302
+Z
+*src/exercise/chapter_60/singleton/test.txt,b/9/b9f51158c46308c7532e30236371f0bfc641cd01
+j
+:src/exercise/chapter_60/singleton/FileWriterSingleton.java,e/0/e074e20c9267175ebcc361fc1d2c54ba3c37840e
+n
+>src/exercise/chapter_60/singleton/FileWriterGingletonTest.java,b/9/b90a1c8b8ac6e098bc5ed4b1e395ed1f5ddb87bd
+Y
+)src/exercise/chapter_60/builder/User.java,d/3/d3b98ea4b08045dd3aa5861ee5529b0b655056c8
+`
+0src/exercise/chapter_60/builder/BuilderTest.java,6/5/65131429209c7f9e4408b8f687302ae29cfe0ad7
+]
+-src/exercise/chapter_60/decorator/Coffee.java,6/7/6765839852c159f4048f5c7d0286a3f7a66123a2
+[
++src/exercise/chapter_60/decorator/Milk.java,9/e/9ee617793d28c39f921db7b6a0c8ac3e08a0be29
+\
+,src/exercise/chapter_60/decorator/Suger.java,8/6/866439ee42ac1c5b2ffb2037eec087c4380129fc
+\
+,src/exercise/chapter_60/decorator/Cream.java,f/9/f9602e3a32ea72438dd816dbc9e1a6018dbb19d0
+h
+8src/exercise/chapter_60/decorator/BeverageDecorator.java,a/3/a3eb82fec59a8b640d57d053a85b79baa96ab8e6
+_
+/src/exercise/chapter_60/decorator/Beverage.java,b/7/b772df068fcfb7bd08e6950877025880bf519ce7
+b
+2src/exercise/chapter_60/decorator/OrderCoffee.java,b/9/b940dbc3a59cbe47f50c347404967ab38a606db1
+f
+6src/exercise/chapter_61/MyAnnotation/MyAnnotation.java,4/0/40bb3f72e76c8b0610ded50d05bc0d44303decde
+h
+8src/exercise/chapter_60/singleton/FileWriterExample.java,e/7/e7cd4fdd0e8d28d9603512131b98efea1491c84d
+�
+�src/mission/여러_쓰레드를_활용하여_주어진_크기_size의_List를_채우는_프로그램을_작성/ThreeThreadsListFiller.java,e/e/eea3db70cd68d51dcc2f38722a16f3ec248f929e
+�
+hsrc/mission/메타_프로그래밍과_싱글톤_디자인_패턴을_같이_쓰려고_합니다/Book.java,d/8/d8f9035666a0708982423330dedef8cda63c1978
+�
+hsrc/mission/메타_프로그래밍과_싱글톤_디자인_패턴을_같이_쓰려고_합니다/Main.java,4/d/4d87ae9f3edab14ac599bff105008e1be7e6b43f
+�
+msrc/mission/메타_프로그래밍과_싱글톤_디자인_패턴을_같이_쓰려고_합니다/Singleton.java,4/8/48f250964a7c96aacc23a31590b94173f3363b0d
+�
+ssrc/mission/메타_프로그래밍과_싱글톤_디자인_패턴을_같이_쓰려고_합니다/SingletonConfig.java,c/8/c8b76f4aec52ec30ebae8fcf7438d4eab5dcf2b2
+�
+tsrc/mission/메타_프로그래밍과_싱글톤_디자인_패턴을_같이_쓰려고_합니다/SingletonContext.java,1/5/151944c19600679926b319dde105110fa0ff32f8
+�
+gsrc/mission/메타_프로그래밍과_싱글톤_디자인_패턴을_같이_쓰려고_합니다/Car.java,b/5/b5b9f341b6322e32f9abce2c526f2ee6e5fe7140
+[
++MyMaven/src/main/java/org/example/Main.java,1/9/194c7537c27550b9cdf65b59dbe92940c3b822a0
+B
+MyMaven/.gitignore,f/2/f2e64df7e2b54846dd3045409b5700ab4cff1cc6
+?
+MyMaven/pom.xml,7/c/7ce8ece5af056680f76b236b73380c03f2b43119
+e
+5MyGradle/src/main/java/org/example/person/Person.java,0/2/02d82ea201d262b0148204efee1f4840de041e50
+h
+8MyGradle/src/main/java/org/example/person/PersonDto.java,4/d/4d341de96ba8c2830b453a5795130fdc8488317b
+\
+,MyGradle/src/main/java/org/example/Test.java,a/1/a194c318787949cfca6f34cd6da5d5739e212117
+n
+>MyGradle/src/main/java/org/example/person/PersonMapStruct.java,1/7/17a6c328d85587a829ab5ea9d1bdf6491cdf8e3b
+C
+MyGradle/.gitignore,9/9/990b94c4bf3ee2727de2172fc9f3f7ca9b1b9070
+@
+MyGradle/gradlew,4/b/4b863b73722c0e67f0bdd2f6534ba09904e98d2a
+D
+MyGradle/gradlew.bat,e/6/e647735e971de94cb2dcd7b7fba93dd9dd5dc57a
+H
+MyGradle/settings.gradle,5/a/5a5da1357ed0766d6b7a2c6fe310e631b5e1387f
+>
+HelloWorld.iml,c/4/c4cd22fe3582931671ad3692977efe167d3412ea
+@
+LearningJava.iml,e/0/e0ad650454689a01db52e64c546b42dff40fcf5c
+~
+NMyGradle/src/main/java/org/example/암호화_라이브러리/encrypted_abc.txt,a/c/ac98b55320aa23cf9b193b9a7159419f3ca8eee6
+\
+,MyGradle/src/main/java/org/example/Main.java,c/9/c9fc30bb520e609276182fd11b94c21b6ae8eb68
+E
+MyGradle/build.gradle,d/c/dcdf15b7dff5b628a0b1a33e660e91e2f7b3a9ba
+a
+1MyGradle/src/main/java/org/example/base/Main.java,5/c/5c6963f763bbf635ddfc002ca3e0834096a55512
+�
+WMyGradle/src/main/java/org/example/암호화_라이브러리/FileEncryptionExample.java,3/2/320b5021793e900afc142605e7c987a3bbbf5968

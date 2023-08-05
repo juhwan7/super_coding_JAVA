@@ -1,0 +1,38 @@
+plugins {
+    // Gradle Tasks 작업추가하는 곳
+    id 'java'
+}
+
+group = 'org.example'
+version = '1.1-SNAPSHOT'
+
+var jUnitVersion = "5.9.1"
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation "org.junit:junit-bom:${jUnitVersion}"
+    testImplementation "org.junit.jupiter:junit-jupiter"
+    testRuntimeOnly "org.junit.jupiter:junit-jupiter-engine:${jUnitVersion}"
+
+    // https://mvnrepository.com/artifact/com.google.guava/guava
+    implementation 'com.google.guava:guava:32.0.1-jre'
+
+    // MapStruct 라이브러리
+    implementation 'org.mapstruct:mapstruct:1.5.3.Final'
+    annotationProcessor 'org.mapstruct:mapstruct-processor:1.5.3.Final'
+
+// https://mvnrepository.com/artifact/org.jasypt/jasypt
+    implementation 'org.jasypt:jasypt:1.9.3'
+
+}
+
+test {
+    useJUnitPlatform()
+}
+
+javadoc {
+    exclude("org/example/Main.java")// doc 만들 때 저 파일은 제외해라
+}

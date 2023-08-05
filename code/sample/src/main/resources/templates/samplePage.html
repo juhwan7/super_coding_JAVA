@@ -1,0 +1,19 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Sammple Page</title>
+</head>
+
+<body>
+<h1>Sample Data</h1>
+<div>
+    <div th:each="data: ${dataList}">
+        <p th:text="${data.id+': '+data.name}"></p>
+
+    </div>
+    <div th:if="${dataList.size() ==0}">
+        <p>No Data Avatilable.</p>
+    </div>
+</div>
+
+</body>
+</html>
