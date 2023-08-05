@@ -26,6 +26,7 @@ import java.util.stream.Collectors;
 @RequiredArgsConstructor
 @Slf4j
 public class ElectronicStoreItemService {
+    private final ElectronicStoreItemRepository electronicStoreItemRepository;
     private final ElectronicStoreItemJpaRepository electronicStoreItemJpaRepository;
 
     private final StoreSalesRepository storeSalesRepository;
@@ -93,7 +94,6 @@ public class ElectronicStoreItemService {
         Integer itemNums = buyOrder.getItemNums();
 
         ItemEntity itemEntity = electronicStoreItemJpaRepository.findById(itemId).orElseThrow(() -> new NotFoundException("해당 Id" + itemId + "의 Item을 찾을 수 없습니다."));
-        log.info("==================동작 확인 로그 1================ ");
 
         if (itemEntity.getStoreSales().isEmpty()) throw new RuntimeException("매장을 찾을 수 없습니다.");
         if (itemEntity.getStock() <= 0) throw new RuntimeException("상품의 재고가 없습니다.");
@@ -108,7 +108,7 @@ public class ElectronicStoreItemService {
         itemEntity.setStock(itemEntity.getStock() - successBuyItemNums);
 
         if (successBuyItemNums == 4) throw new RuntimeException("4개를 구매하는건 허락하지않습니다.");
-        log.info("==================동작 확인 로그 2================ ");
+
         // 매장 매상 추가
         StoreSales storeSales = itemEntity.getStoreSales()
                 .orElseThrow(() -> new NotFoundException("해당 Store 해당하는 StoreSale 찾을 수 없습니다."));
