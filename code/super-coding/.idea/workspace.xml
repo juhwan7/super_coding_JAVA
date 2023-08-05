@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6a08159-144e-4db7-a202-8eff1bc319db" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../sample/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/SampleApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/BeanConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/MyBean1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/MyBean2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/MyComponentA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/MyComponentB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/SampleCSRController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/controller/SampleSSRController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/java/com/github/sample/dto/SampleData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/resources/static/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/resources/static/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/main/resources/templates/samplePage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sample/src/test/java/com/github/sample/SampleApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/SuperCodingApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/congif/JdbcConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/congif/JpaConfig1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/congif/SwaggerConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/airlineTicket/AirlineTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/airlineTicket/AirlineTicketAndFlightInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/airlineTicket/AirlineTicketJdbcTemplateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/airlineTicket/AirlineTicketRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/items/ElectronicStoreItemJpaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/items/ElectronicStoreItemRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/items/ItemEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/passenger/Passenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/passenger/PassengerJdbcTemplateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/passenger/PassengerReposiotry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/reservations/Reservation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/reservations/ReservationJdbcTemplateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/reservations/ReservationRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/storeSales/StoreSales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/storeSales/StoreSalesJdbcTemplateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/storeSales/StoreSalesJpaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/storeSales/StoreSalesRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/users/UserEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/users/UserJdbcTemplateDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/repository/users/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/AirReservationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/ElectronicStoreItemService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/exceptions/InvalidValueException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/exceptions/NotAcceptException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/exceptions/NotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/mapper/ItemMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/service/mapper/TicketMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/advice/ExceptionControllerAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/controller/AirReservationController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/controller/ElectronicStoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/ApiModelProperty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/Spec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/airline/ReservationRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/airline/ReservationResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/airline/Ticket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/airline/TicketResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/items/BuyOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/items/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/supercoding/web/dto/items/ItemBody.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-local.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback-spring-dev.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/logback-spring-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/github/supercoding/SuperCodingApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../test/test.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="super-coding" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TQNATBCrli00sJIAfOPtplvEHt" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/kimjuhwan/Documents/GitHub/super_coding/code/super-coding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "f07cedef8c53ac8da54f0b74990fab1a",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.github.supercoding.web.dto" />
+      <recent name="com.github.supercoding.repository.passenger" />
+      <recent name="com.github.supercoding.web.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SuperCodingApplication">
+    <configuration name="super-coding [dependencies]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="dependencies" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="SuperCodingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ACTIVE_PROFILES" value="local" />
+      <module name="super-coding.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.supercoding.SuperCodingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.super-coding [dependencies]" />
+      <item itemvalue="Spring Boot.SuperCodingApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="e6a08159-144e-4db7-a202-8eff1bc319db" name="변경" comment="" />
+      <created>1690971208179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690971208179</updated>
+      <workItem from="1690971209375" duration="31660000" />
+      <workItem from="1691068498943" duration="36000" />
+      <workItem from="1691068597638" duration="28754000" />
+      <workItem from="1691218955187" duration="239000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
