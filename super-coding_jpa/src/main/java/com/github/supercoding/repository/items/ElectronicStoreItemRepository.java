@@ -1,8 +1,11 @@
 package com.github.supercoding.repository.items;
 
 
+import org.springframework.stereotype.Repository;
+
 import java.util.List;
 
+@Repository
 public interface ElectronicStoreItemRepository {
 
     List<ItemEntity> findAllItems();
