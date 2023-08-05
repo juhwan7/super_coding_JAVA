@@ -70,4 +70,7 @@ public class AirlineTicket {
     public int hashCode() {
         return getClass().hashCode();
     }
+    
 }
+
+
