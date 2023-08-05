@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0ccf9264-08ee-44e1-93bd-9d7c8002fad7" name="변경" comment="">
-<<<<<<< Updated upstream
       <change afterPath="$PROJECT_DIR$/HelloWorld/src/exercise/chapter_27/Student.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HelloWorld/src/exercise/chapter_27/Subject.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/HelloWorld/src/exercise/chapter_27/Teacher.java" afterDir="false" />
@@ -13,14 +15,31 @@
       <change afterPath="$PROJECT_DIR$/HelloWorld/src/exercise/chapter_28/BirthDay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HelloWorld/src/exercise/chapter_26/ClassroomDay.java" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld/src/exercise/chapter_26/ClassroomDay.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/test.iml" beforeDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
->>>>>>> Stashed changes
+
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/나이키운동화/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/나이키운동화/DeliveryManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/나이키운동화/OrderSneakersSituation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/나이키운동화/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/도형을_나타내는_클래스/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/도형을_나타내는_클래스/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/도형을_나타내는_클래스/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HelloWorld/src/mission/도형을_나타내는_클래스/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,17 +49,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< Updated upstream
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "/Users/kimjuhwan/Documents/GitHub/super_coding",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-=======
+
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -54,7 +78,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}</component>
+}</component
   <component name="RunManager">
     <configuration name="OrderSneakersSituation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="mission.나이키운동화.OrderSneakersSituation" />
@@ -75,7 +99,7 @@
       </list>
     </recent_temporary>
   </component>
->>>>>>> Stashed changes
+
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
@@ -85,10 +109,12 @@
       <option name="presentableId" value="Default" />
       <updated>1689250021298</updated>
       <workItem from="1689250022356" duration="19000" />
-<<<<<<< Updated upstream
-=======
+
+
       <workItem from="1689401190088" duration="11164000" />
->>>>>>> Stashed changes
+
+      <workItem from="1689401190088" duration="9847000" />
+
     </task>
     <servers />
   </component>

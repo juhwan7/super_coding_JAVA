@@ -1,0 +1,5 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(øºÑûúÿÿÿÿ8®µ­›1
+X	java:S125"<This block of commented-out lines of code should be removed.(ô¸ÌÁ8™ĞÂ­›1
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8šĞÂ­›1
