@@ -1,0 +1,13 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(íˆ•î8°÷±÷–1
+Q
+java:S3740"/Provide the parametrized type for this generic.(÷’êÜüÿÿÿÿ8°÷±÷–1
+\
+java:S1854":Remove this useless assignment to local variable "clazz2".(÷’êÜüÿÿÿÿ8´÷±÷–1
+d
+java:S2133"BRemove this object instantiation and use "Customer.class" instead.(¯ÿ‰öþÿÿÿÿ8µ÷±÷–1
+M
+java:S1481"+Remove this unused "clazz2" local variable.(÷’êÜüÿÿÿÿ8µ÷±÷–1
+]	java:S125"<This block of commented-out lines of code should be removed.(óË¿áþÿÿÿÿ8µ÷±÷–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¸‘ùêþÿÿÿÿ8ÛÍ´÷–1

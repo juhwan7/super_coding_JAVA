@@ -1,0 +1,11 @@
+
+8
+java:S1643"Use a StringBuilder instead.(äÛøz8¡·ïõ–1
+\
+java:S1854":Remove this useless assignment to local variable "output".(¬ôÚâùÿÿÿÿ8£÷–1
+J
+java:S1481"(Remove this unused "str" local variable.(ûÍÇÉøÿÿÿÿ8‹Ññõ–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾õ•»8®·ïõ–1
+M
+java:S1481"+Remove this unused "output" local variable.(¬ôÚâùÿÿÿÿ8¥÷–1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÁæÄşÿÿÿÿ8š”÷õ–1

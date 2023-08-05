@@ -1,0 +1,12 @@
+
+]
+java:S1854 "@Remove this useless assignment to local variable "hashPassword".(°¿æø8ã€ß—1
+N
+java:S1481 "1Remove this unused "hashPassword" local variable.(°¿æø8é€ß—1
+]	java:S125""<This block of commented-out lines of code should be removed.(¼¯‚Úÿÿÿÿÿ8é€ß—1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(ŒˆÄøúÿÿÿÿ8é€ß—1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(€†ÈÃúÿÿÿÿ8é€ß—1
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(½šâºÿÿÿÿÿ8ê€ß—1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(ÆÆ‡8ê€ß—1
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¥ßÌ8ê€ß—1
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(ø“Ÿåÿÿÿÿÿ8ê€ß—1

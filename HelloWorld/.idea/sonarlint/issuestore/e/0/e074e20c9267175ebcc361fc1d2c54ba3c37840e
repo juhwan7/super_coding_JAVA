@@ -1,0 +1,7 @@
+
+Š
+java:S4165"hRemove this useless assignment; "fileWriter" already holds the assigned value along all execution paths.(¹–êØùÿÿÿÿ8‘÷·µ˜1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÔÚÓşÿÿÿÿ8§’É¶˜1
+Q
+java:S1656"/Remove or correct this useless self-assignment.(¹–êØùÿÿÿÿ8•÷·µ˜1

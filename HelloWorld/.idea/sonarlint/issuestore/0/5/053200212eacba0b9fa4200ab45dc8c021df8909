@@ -1,0 +1,22 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Apple" 3 times.(Çà¥©ýÿÿÿÿ8Ù˜î¿—1
+P
+java:S1611"3Remove the parentheses around the "fruit" parameter(’¬ªÏ8æ˜î¿—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(’¬ªÏ8è˜î¿—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(”•¯¹8ê˜î¿—1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(”Û×Òøÿÿÿÿ8ì˜î¿—1
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(æÞóùüÿÿÿÿ8î˜î¿—1
+Q
+java:S1611,"/Remove the parentheses around the "i" parameter(æÞóùüÿÿÿÿ8ï˜î¿—1
+U	java:S106-"9Replace this use of System.out or System.err by a logger.(€æÆå8ñ˜î¿—1
+L
+java:S1611-"/Remove the parentheses around the "i" parameter(€æÆå8ñ˜î¿—1
+Z	java:S1060"9Replace this use of System.out or System.err by a logger.(¼Ž²Óúÿÿÿÿ8ñ˜î¿—1
+T	java:S1061"9Replace this use of System.out or System.err by a logger.(–”Ð8ñ˜î¿—1
+K
+java:S16111"/Remove the parentheses around the "i" parameter(–”Ð8ò˜î¿—1
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(»óòÀ8ò˜î¿—1
+L
+java:S16112"/Remove the parentheses around the "i" parameter(»óòÀ8ò˜î¿—1
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(É»‰Ï8ò˜î¿—1

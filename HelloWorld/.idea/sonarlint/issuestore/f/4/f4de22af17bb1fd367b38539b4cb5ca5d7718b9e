@@ -1,0 +1,8 @@
+
+J
+java:S1604	"(Make this anonymous inner class a lambda(İÉ—“úÿÿÿÿ8à™é¸—1
+R
+java:S1481	"0Remove this unused "multipleNum" local variable.(İÉ—“úÿÿÿÿ8æ™é¸—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ó×ä×8Ó î¸—1
+Q
+java:S1481"/Remove this unused "stringNum2" local variable.(ä¾àÿÿÿÿÿ8è™é¸—1

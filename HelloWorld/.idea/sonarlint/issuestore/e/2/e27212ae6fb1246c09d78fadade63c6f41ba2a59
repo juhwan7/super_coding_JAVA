@@ -1,0 +1,7 @@
+
+a
+java:S2147"DCombine this catch with the one at line 22, which has the same body.(ï­£Ä8ºËÅ—1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(îÿT8¼ËÅ—1
+a
+java:S2147,"DCombine this catch with the one at line 42, which has the same body.(ï­£Ä8¼ËÅ—1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(²õ‰óıÿÿÿÿ8¾ËÅ—1

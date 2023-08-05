@@ -1,0 +1,13 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶şßìıÿÿÿÿ8“òŒ˜—1
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(º²†‘8“òŒ˜—1
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(ûªÒŒúÿÿÿÿ8“òŒ˜—1
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(øş&8“òŒ˜—1
+y
+java:S1488#"\Immediately return this expression instead of assigning it to the temporary variable "data".(œ£ø8”òŒ˜—1
+e
+java:S2166"CRename this class to remove "Exception" or correct its inheritance.(ª‚‹æùÿÿÿÿ8—òŒ˜—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÈ­ªşÿÿÿÿ8˜òŒ˜—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ê¤Ê¥8˜òŒ˜—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Öæñ¥üÿÿÿÿ8˜òŒ˜—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(î™…§ùÿÿÿÿ8™òŒ˜—1

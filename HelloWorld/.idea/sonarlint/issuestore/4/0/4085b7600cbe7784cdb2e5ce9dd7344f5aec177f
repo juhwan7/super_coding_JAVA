@@ -1,0 +1,15 @@
+
+N
+java:S1611"1Remove the parentheses around the "num" parameter(å‹Ø±8â‹¡¹—1
+Q
+java:S1611	"/Remove the parentheses around the "x" parameter(£«Æúøÿÿÿÿ8ã‹¡¹—1
+N
+java:S1611"1Remove the parentheses around the "str" parameter(úœ¨ 8ã‹¡¹—1
+N
+java:S1611"1Remove the parentheses around the "num" parameter(›‹›Ç8ã‹¡¹—1
+V
+java:S1611"4Remove the parentheses around the "myBool" parameter(‰ò÷¥øÿÿÿÿ8ä‹¡¹—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰Öó8ä‹¡¹—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Àñù–ûÿÿÿÿ8éñ£¹—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŸâÆşÿÿÿÿ8®¸¦¹—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8ÿõ¨¹—1

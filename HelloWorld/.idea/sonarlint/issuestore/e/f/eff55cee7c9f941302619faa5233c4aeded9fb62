@@ -1,0 +1,24 @@
+
+c
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 3 times.(ï©œÙ8Ì™—1
+>
+java:S1643"Use a StringBuilder instead.(ê­½£ûÿÿÿÿ8Ì™—1
+Y
+java:S4973"<Strings and Boxed types should be compared using "equals()".(æó®8‚Ì™—1
+^
+java:S4973"<Strings and Boxed types should be compared using "equals()".(ª¬Êùÿÿÿÿ8‚œ­—1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯ò 8‚Ì™—1
+B
+java:S2129	" Remove this "String" constructor(ùåğ©üÿÿÿÿ8…Ì™—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æó®8…Ì™—1
+T
+java:S1135"2Complete the task associated to this TODO comment.(û¡Õ«üÿÿÿÿ8…Ì™—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ª¬Êùÿÿÿÿ8…Ì™—1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(À‹Ü8…Ì™—1
+T
+java:S1135"2Complete the task associated to this TODO comment.(Ã±Îµıÿÿÿÿ8…Ì™—1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(–²­ûÿÿÿÿ8†Ì™—1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¾àÍ8†Ì™—1
+O
+java:S1135"2Complete the task associated to this TODO comment.(Ğ²í8†Ì™—1
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(áŸé¥şÿÿÿÿ8†Ì™—1
