@@ -17,7 +17,7 @@ import java.util.Optional;
 @Builder
 @Entity
 @Table(name = "item")
-public class ItemEntity {
+public class   ItemEntity {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
